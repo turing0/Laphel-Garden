@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-04-22T16:32:46.740+08:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-04-22T16:37:08.819+08:00"}
 ---
 
 
@@ -25,15 +25,8 @@ Hi, Laphel~
 <div class="markdown-embed">
 
 - [[Digital-Immigrants/美国电话卡\|美国电话卡]]
-    - correlation ≠ causation, but we still use the y-axis for what appears to be the dependent variable
 - [[Digital-Immigrants/美国信用卡\|美国信用卡]]
-    - describe what you see
-- Outliers
-- Clusters
-- Gaps
-- Barriers (boundaries)
-- Conditional relationships
-    - different relationships for different intervals of x
+
 
 </div></div>
 
