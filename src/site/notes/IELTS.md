@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["English","IELTS"],"permalink":"/ielts/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"tags":["English","IELTS"],"permalink":"/IELTS/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
