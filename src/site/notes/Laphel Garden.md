@@ -19,5 +19,5 @@ Hi, this is laphel garden~
 
 ## Digital Immigrants
 
-- [[美国电话卡\|美国电话卡]]
-- [[美国信用卡\|美国信用卡]]
+- [[di/美国电话卡\|美国电话卡]]
+- [[di/美国信用卡\|美国信用卡]]
