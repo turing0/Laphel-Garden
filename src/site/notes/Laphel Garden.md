@@ -1,12 +1,10 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/laphel-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
 Hi, this is laphel garden~
 
-
-> [!WARNING] Incomplete Section!
 
 
 # English
@@ -22,5 +20,5 @@ Hi, this is laphel garden~
 
 # Digital Immigrants
 
-
+[[美国电话卡\|美国电话卡]]
 
