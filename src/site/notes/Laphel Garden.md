@@ -1,9 +1,8 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-04-22T16:26:46.366+08:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-04-22T16:27:46.483+08:00"}
 ---
 
 
-# Laphel Garden
 
 <center>
 <blockquote> "The greatest glory in living lies not in never falling, but in rising every time we fall."
@@ -12,7 +11,7 @@
 Hi , Laphel~
 
 
-## English
+# English
 
 
 
