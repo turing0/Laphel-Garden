@@ -13,7 +13,7 @@ hi, this is laphel garden~
 
 # 留学
 
-[[网站\|网站]]
+[[留学网站\|留学网站]]
 
 
 
