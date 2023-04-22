@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["English","TOEFL"],"permalink":"/toefl/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"tags":["English","TOEFL"],"permalink":"/TOEFL/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
