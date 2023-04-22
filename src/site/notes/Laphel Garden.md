@@ -1,9 +1,9 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/laphel-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-home":true,"dg-publish":true,"permalink":"/laphel-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
-hi, this is laphel garden~
+Hi, this is laphel garden~
 
 
 > [!WARNING] Incomplete Section!
