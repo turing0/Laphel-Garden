@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/laphel-garden/","tags":["gardenEntry"]}
+{"dg-home":true,"dg-publish":true,"permalink":"/laphel-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
@@ -13,7 +13,10 @@ hi, this is laphel garden~
 
 # 留学
 
-[[websites\|websites]]
+[[websites\|留学网站]]
+
+
+# Digital Immigrants
 
 
 
