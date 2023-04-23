@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-04-22T16:37:08.819+08:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-04-22T21:47:34.837+08:00"}
 ---
 
 
@@ -11,13 +11,26 @@ Hi, Laphel~
 
 # English
 
+- [[英语习得\|英语习得]]
 
 
-# 留学
+# Master Application
 
-[[留学网站\|留学网站]]
-[[IELTS\|IELTS]]
-[[TOEFL\|TOEFL]]
+- [[Master-Application/留学申请相关网站\|留学申请相关网站]]
+- 语言
+	- [[Master-Application/IELTS\|IELTS]]
+	- [[Master-Application/TOEFL\|TOEFL]]
+- [[Master-Application/GRE\|GRE]]
+- 文书
+
+
+# Open Courses
+
+- Computer Science
+	- [[Open-Courses/Bitcoin and Cryptocurrency Technologies\|Bitcoin and Cryptocurrency Technologies]]
+- Finance
+	- [[Open-Courses/Decentralized Finance (DeFi) The Future of Finance\|Decentralized Finance (DeFi) The Future of Finance]]
+
 
 # Digital Immigrants
 
