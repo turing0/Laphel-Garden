@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Crypto"],"permalink":"/Open-Courses/Bitcoin and Cryptocurrency Technologies/","dgPassFrontmatter":true,"created":"2023-04-22T21:47:34.179+08:00","updated":"2023-04-23T13:13:37.781+08:00"}
+{"dg-publish":true,"title":"Bitcoin and Cryptocurrency Technologies","tags":["Crypto"],"permalink":"/Open-Courses/Bitcoin and Cryptocurrency Technologies/","dgPassFrontmatter":true,"created":"2023-04-22T21:47:34.179+08:00","updated":"2023-04-23T13:49:11.282+08:00"}
 ---
 
 Course website: https://www.coursera.org/learn/cryptocurrency 
