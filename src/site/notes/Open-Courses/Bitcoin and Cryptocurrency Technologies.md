@@ -1,16 +1,15 @@
 ---
-{"dg-publish":true,"tags":["Crypto"],"permalink":"/Open-Courses/Bitcoin and Cryptocurrency Technologies/","dgPassFrontmatter":true,"created":"2023-04-22T21:47:34.179+08:00","updated":"2023-04-23T13:10:29.792+08:00"}
+{"dg-publish":true,"tags":["Crypto"],"permalink":"/Open-Courses/Bitcoin and Cryptocurrency Technologies/","dgPassFrontmatter":true,"created":"2023-04-22T21:47:34.179+08:00","updated":"2023-04-23T13:13:37.781+08:00"}
 ---
 
-# Bitcoin and Cryptocurrency Technologies
 Course website: https://www.coursera.org/learn/cryptocurrency 
 Text book(a complement to this course): https://bitcoinbook.cs.princeton.edu/ 
 - pdf: https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf
 
 
-## Introduction to Crypto and Cryptocurrencies
+# Introduction to Crypto and Cryptocurrencies
 
-### Cryptographic Hash Functions
+## Cryptographic Hash Functions
 
 Hash Function: 
 - takes any strings as input
@@ -31,4 +30,4 @@ SHA-256 hash function
 	https://sha256algorithm.com/
 
 
-### Hash Pointers and Data Structures
+## Hash Pointers and Data Structures
