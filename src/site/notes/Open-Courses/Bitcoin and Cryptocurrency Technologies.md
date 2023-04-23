@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Crypto"],"permalink":"/Open-Courses/Bitcoin and Cryptocurrency Technologies/","dgPassFrontmatter":true,"created":"2023-04-22T21:47:34.179+08:00","updated":"2023-04-23T11:46:38.028+08:00"}
+{"dg-publish":true,"tags":["Crypto"],"permalink":"/Open-Courses/Bitcoin and Cryptocurrency Technologies/","dgPassFrontmatter":true,"created":"2023-04-22T21:47:34.179+08:00","updated":"2023-04-23T11:48:41.519+08:00"}
 ---
 
 Course website: https://www.coursera.org/learn/cryptocurrency
@@ -12,9 +12,9 @@ Text book(a complement to this course): https://bitcoinbook.cs.princeton.edu/
 ## Cryptographic Hash Functions
 
 Hash Function: 
-	takes any strings as input
-	fixd-size output (we'll use 256bits)
-	efficiently computable
+- takes any strings as input
+- fixd-size output (we'll use 256bits)
+- efficiently computable
 ![img](https://www.thesslstore.com/blog/wp-content/uploads/2018/12/Hashing-Example.png)
 
 Security properties:
