@@ -17,11 +17,11 @@ This site is still a work in progress, so excuse the mess. 👷‍♂️
 
 # Master Application
 
-- [[Master-Application/留学申请相关网站\|留学申请相关网站]]
+- [[Master Application/留学申请相关网站\|留学申请相关网站]]
 - 语言
-	- [[Master-Application/IELTS\|IELTS]]
-	- [[Master-Application/TOEFL\|TOEFL]]
-- [[Master-Application/GRE\|GRE]]
+	- [[Master Application/IELTS\|IELTS]]
+	- [[Master Application/TOEFL\|TOEFL]]
+- [[Master Application/GRE\|GRE]]
 - 文书
 
 
