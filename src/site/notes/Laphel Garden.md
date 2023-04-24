@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-04-23T17:41:06.700+08:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-04-24T21:48:19.328+08:00"}
 ---
 
 
@@ -12,7 +12,9 @@ This site is still a work in progress, so excuse the mess. 👷‍♂️
 
 # English
 
-- [[英语习得\|英语习得]]
+- [[English/二语习得\|二语习得]]
+- [[English/可理解输入\|可理解输入]]
+- [[English/美剧学英语\|美剧学英语]]
 
 
 # Master Application
