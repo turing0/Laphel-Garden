@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Paul Graham Archive/","dgPassFrontmatter":true,"created":"2023-04-25T15:12:09.018+08:00","updated":"2023-04-25T15:20:23.814+08:00"}
+{"dg-publish":true,"permalink":"/Paul Graham Archive/","dgPassFrontmatter":true,"created":"2023-04-25T15:12:09.018+08:00","updated":"2023-04-25T15:31:26.574+08:00"}
 ---
 
 
@@ -10,8 +10,9 @@
   
 保罗是《[On Lisp](https://www.amazon.com/exec/obidos/ISBN=0130305529)》（Prentice Hall，1993）、《[ANSI Common Lisp](https://www.amazon.com/exec/obidos/ISBN=0133708756)》（Prentice Hall，1995）和《[黑客与画家](https://www.amazon.com/exec/obidos/ISBN=0596006624)》（O’Reilly，2004）的作者。他拥有康奈尔大学的学士学位和哈佛大学的计算机科学博士学位，并在 RISD 和佛罗伦萨的艺术学院学习绘画。
 
-## significance of image on his website
-It's a photo he took in Paris. He was amused by the contrast between thesimplest rep of the body and most
-elaborate.
-
+## Significance of image on his website
+It's a photo he took in Paris. He was amused by the contrast between thesimplest rep of the body and most elaborate.
 [src](https://qph.cf2.quoracdn.net/main-qimg-b7db7a8de5556aeea7b1ab3242139700-pjlq)
+
+# Articles
+
