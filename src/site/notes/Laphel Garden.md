@@ -29,7 +29,7 @@ This site is still a work in progress, so excuse the mess. 👷‍♂️
 - [[English/美剧学英语\|美剧学英语]]
 
 
-# [[Master Application\|Master Application]]
+# [[master-application/Master Application\|Master Application]]
 
 - [[master-application/留学申请相关网站\|留学申请相关网站]]
 - 语言
@@ -50,5 +50,5 @@ This site is still a work in progress, so excuse the mess. 👷‍♂️
 
 # Misc
 
-- [[Paul Graham Archive\|Paul Graham Archive]]
+- [[Misc/Paul Graham Archive\|Paul Graham Archive]]
 
