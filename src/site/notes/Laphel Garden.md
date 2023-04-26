@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-04-26T19:43:23.339+08:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-04-26T20:47:45.396+08:00"}
 ---
 
 
@@ -16,13 +16,14 @@ This site is still a work in progress, so excuse the mess. 👷‍♂️
 
 - [[digital-immigrants/美国电话卡\|美国电话卡]]
 - [[digital-immigrants/美国信用卡\|美国信用卡]]
-
+- [[digital-immigrants/美国私人地址\|美国私人地址]]
+- [[digital-immigrants/HSBC Card\|HSBC Card]]
 
 </div></div>
 
 
 
-# English
+# [[English/English\|English]]
 
 - [[English/二语习得\|二语习得]]
 - [[English/可理解输入\|可理解输入]]
@@ -38,6 +39,11 @@ This site is still a work in progress, so excuse the mess. 👷‍♂️
 - [[master-application/GRE\|GRE]]
 - 文书
 
+# Misc
+
+- [[Misc/Paul Graham Archive\|Paul Graham Archive]]
+
+
 
 # [[open-courses/Open Courses\|Open Courses]]
 
@@ -48,7 +54,7 @@ This site is still a work in progress, so excuse the mess. 👷‍♂️
 
 
 
-# Misc
+# Tools
 
-- [[Misc/Paul Graham Archive\|Paul Graham Archive]]
-
+- [[Tools/Telegram\|Telegram]]
+- [[Tools/Obsidian\|Obsidian]]
