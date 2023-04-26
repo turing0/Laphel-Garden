@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Misc/Paul Graham Archive/","dgPassFrontmatter":true,"created":"2023-04-25T15:12:09.018+08:00","updated":"2023-04-25T15:31:26.574+08:00"}
+{"dg-publish":true,"aliases":["PaulGraham"],"permalink":"/Misc/Paul Graham Archive/","dgPassFrontmatter":true,"created":"2023-04-25T15:12:09.018+08:00","updated":"2023-04-26T19:50:23.998+08:00"}
 ---
 
 
