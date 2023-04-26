@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-04-25T20:40:31.714+08:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-04-26T19:43:23.339+08:00"}
 ---
 
 
@@ -39,12 +39,12 @@ This site is still a work in progress, so excuse the mess. 👷‍♂️
 - 文书
 
 
-# Open Courses
+# [[open-courses/Open Courses\|Open Courses]]
 
 - Computer Science
-	- [[Open-Courses/Bitcoin and Cryptocurrency Technologies\|Bitcoin and Cryptocurrency Technologies]]
+	- [[open-courses/Bitcoin and Cryptocurrency Technologies\|Bitcoin and Cryptocurrency Technologies]]
 - Finance
-	- [[Open-Courses/Decentralized Finance (DeFi) The Future of Finance\|Decentralized Finance (DeFi) The Future of Finance]]
+	- [[open-courses/Decentralized Finance (DeFi) The Future of Finance\|Decentralized Finance (DeFi) The Future of Finance]]
 
 
 
