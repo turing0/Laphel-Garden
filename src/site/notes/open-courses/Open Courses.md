@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/open-courses/Open Courses/","dgPassFrontmatter":true,"created":"2023-04-26T19:43:23.306+08:00","updated":"2023-04-26T19:52:25.238+08:00"}
+{"dg-publish":true,"permalink":"/open-courses/Open Courses/","dgPassFrontmatter":true,"created":"2023-04-26T19:43:23.306+08:00","updated":"2023-04-26T20:55:28.814+08:00"}
 ---
 
 
 # Meta Resource
+-   [Classcentral](http://classcentral.com)：整合了1200+大学，80个课程平台，1000+机构的课程。有非常多免费的
 -   [Coursera](https://www.coursera.org/)：名校课程汇集
 -   [TED](http://www.ted.com/)：尖峰创想，启迪心智
 -   [斯坦福开放大学](http://itunes.stanford.edu/)：免费读大学，最新的类似于IOS开发与Ruby开发系列课程，你可以免费找到
@@ -14,11 +15,11 @@
 -   [PLOS](http://www.plos.org/)：开源模式在学术界的应用，公共图书馆，你可以免费看到最新的论文；你也可以提交自己的论文
 
 # Thinking
--   [mindhacks](http://mindhacks.com/)：国外著名博客，内容以介绍心理学与脑科学研究为主。
--   [BPS Research Digest](http://bps-research-digest.blogspot.com/)：常有最新研究。
+-   [mindhacks](http://mindhacks.com/)：国外著名博客，内容以介绍心理学与脑科学研究为主
+-   [BPS Research Digest](http://bps-research-digest.blogspot.com/)：常有最新研究
 
 # 创新
--   [[Misc/Paul Graham Archive\|PaulGraham]]：一位对创业有独特思考的长者。
--   [Hacker News](http://news.ycombinator.com/): 技术创业者集中地带。
+-   [[Misc/Paul Graham Archive\|PaulGraham]]：一位对创业有独特思考的长者
+-   [Hacker News](http://news.ycombinator.com/): 技术创业者集中地带
 
 
