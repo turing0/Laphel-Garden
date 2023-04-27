@@ -1,10 +1,12 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-04-27T22:02:04.135+08:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-04-27T22:04:13.033+08:00"}
 ---
 
 
-
+<center>
 ![img](https://sep.turbifycdn.com/ay/paulgraham/index-1.gif)
+</center>
+
 <blockquote> "The greatest glory in living lies not in never falling, but in rising every time we fall."
 </blockquote>
 Hi, welcome to Laphel Garden, hope you enjoy here!
