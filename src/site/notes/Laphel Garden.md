@@ -1,12 +1,14 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-04-27T21:43:43.561+08:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-04-27T22:02:04.135+08:00"}
 ---
 
 
-Hi, welcome to Laphel Garden, hope you enjoy here!
-This site is still a work in progress, so excuse the mess. 👷‍♂️
+
+![img](https://sep.turbifycdn.com/ay/paulgraham/index-1.gif)
 <blockquote> "The greatest glory in living lies not in never falling, but in rising every time we fall."
 </blockquote>
+Hi, welcome to Laphel Garden, hope you enjoy here!
+This site is still a work in progress, so excuse the mess. 👷‍♂️
 
 # [[Books/Books\|Books]]
 - [[Books/卡拉马佐夫兄弟\|卡拉马佐夫兄弟]]
