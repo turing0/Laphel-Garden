@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["English","IELTS"],"permalink":"/master-application/IELTS/","dgPassFrontmatter":true,"created":"2023-04-22T14:41:07.014+08:00","updated":"2023-04-27T21:23:45.703+08:00"}
+{"dg-publish":true,"tags":["English","IELTS"],"permalink":"/master-application/IELTS/","dgPassFrontmatter":true,"created":"2023-04-22T14:41:07.014+08:00","updated":"2023-04-27T22:12:05.415+08:00"}
 ---
 
 
@@ -8,5 +8,8 @@
 
 # Writing
 
-
 背提供的172个句型，背到张嘴就来不用想的程度。[PDF | Google Drive](https://drive.google.com/file/d/1EV0a8IYeZdxboEottAkAUcLs2f4UgByz/view)
+
+
+
+[[master-application/托福雅思作文修改\|托福雅思作文修改]]
