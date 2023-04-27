@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-04-27T21:30:38.853+08:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-04-27T21:41:17.832+08:00"}
 ---
 
 
@@ -8,7 +8,8 @@ This site is still a work in progress, so excuse the mess. 👷‍♂️
 <blockquote> "The greatest glory in living lies not in never falling, but in rising every time we fall."
 </blockquote>
 
-# [[Books\|Books]]
+# [[Books/Books\|Books]]
+- [[Books/卡拉马佐夫兄弟\|卡拉马佐夫兄弟]]
 
 
 
