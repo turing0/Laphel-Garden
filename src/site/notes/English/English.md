@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["English"],"permalink":"/English/English/","dgPassFrontmatter":true,"created":"2023-04-26T20:08:21.643+08:00","updated":"2023-04-26T20:14:12.994+08:00"}
+{"dg-publish":true,"tags":["English"],"permalink":"/English/English/","dgPassFrontmatter":true,"created":"2023-04-26T20:08:21.643+08:00","updated":"2023-04-27T21:45:54.792+08:00"}
 ---
 
 
@@ -24,3 +24,7 @@ _这套资源，风靡全球，是每一位鸡妈妈必选的资源！包含了�
 7.《Very First Sound Cards》第一套语音学习卡  
   
 利用这套资源就可以完美的达到英语启蒙字、词、句的结合，活学活用！
+
+
+
+雅思托福专项：[[master-application/IELTS\|IELTS]] [[master-application/TOEFL\|TOEFL]] 
