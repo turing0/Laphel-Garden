@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-04-26T21:25:30.608+08:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-04-27T15:29:42.001+08:00"}
 ---
 
 
@@ -42,6 +42,7 @@ This site is still a work in progress, so excuse the mess. 👷‍♂️
 # Misc
 
 - [[Misc/Paul Graham Archive\|Paul Graham Archive]]
+- [[Misc/Quotes\|Quotes]]
 - [[Misc/Workout\|Workout]]
 
 
