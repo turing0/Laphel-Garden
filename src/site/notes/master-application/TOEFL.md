@@ -1,7 +1,16 @@
 ---
-{"dg-publish":true,"tags":["English","TOEFL"],"permalink":"/master-application/TOEFL/","dgPassFrontmatter":true,"created":"2023-04-22T14:42:08.914+08:00","updated":"2023-04-23T11:47:32.886+08:00"}
+{"dg-publish":true,"tags":["English","TOEFL"],"permalink":"/master-application/TOEFL/","dgPassFrontmatter":true,"created":"2023-04-22T14:42:08.914+08:00","updated":"2023-04-27T21:35:50.245+08:00"}
 ---
 
 
 https://www.classcentral.com/subject/toefl
+
+托福背景知识书
+A Short History of the World by H. G. Wells  
+[百度网盘](https://pan.baidu.com/s/1fLtDMA_aOpda3FloJ6wM3A?pwd=yicm) 提取码: yicm
+
+听力推荐张艳老师，口语推荐Fiona，写作建议买本《十天搞定新托福Essay》
+
+# Listening
+
 
