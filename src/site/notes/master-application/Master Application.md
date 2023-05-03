@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/master-application/Master Application/","dgPassFrontmatter":true,"created":"2023-04-25T20:40:34.304+08:00","updated":"2023-04-28T10:15:50.735+08:00"}
+{"dg-publish":true,"permalink":"/master-application/Master Application/","dgPassFrontmatter":true,"created":"2023-04-25T20:40:34.304+08:00","updated":"2023-05-03T14:10:43.410+08:00"}
 ---
 
 
@@ -16,3 +16,7 @@
 [地表最全奖学金攻略：我的二十二万刀经验分享](https://www.douban.com/group/topic/227456000)
 
 [哪些句子拯救了你的英文邮件？](https://www.zhihu.com/question/34147404/answer/2914089545)
+
+
+
+[加拿大移民留学干货铺](https://www.douban.com/note/785400951/)
