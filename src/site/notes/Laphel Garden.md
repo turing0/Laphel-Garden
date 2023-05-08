@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-04-27T22:15:52.511+08:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-05-08T15:54:06.185+08:00"}
 ---
 
 
@@ -45,7 +45,7 @@ This site is still a work in progress, so excuse the mess. 👷‍♂️
 	- [[master-application/IELTS\|IELTS]]
 	- [[master-application/TOEFL\|TOEFL]]
 - [[master-application/GRE\|GRE]]
-- 文书
+- [[master-application/文书\|文书]]
 
 # Misc
 
