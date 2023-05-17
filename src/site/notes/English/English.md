@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["English"],"permalink":"/English/English/","dgPassFrontmatter":true,"created":"2023-04-26T20:08:21.643+08:00","updated":"2023-05-11T09:25:57.303+08:00"}
+{"dg-publish":true,"tags":["English"],"permalink":"/English/English/","dgPassFrontmatter":true,"created":"2023-04-26T20:08:21.643+08:00","updated":"2023-05-14T20:56:25.460+08:00"}
 ---
 
 
@@ -27,6 +27,7 @@ _这套资源，风靡全球，是每一位鸡妈妈必选的资源！包含了�
 
 
 # Youtube channel
+- [Rachel's English](https://www.youtube.com/channel/UCvn_XCl_mgQmt3sD753zdJA)
 - Learn English with Bob the Canadian: 老师直接身体动作表情等演示各种英文单词的实际意思  
 - Learn English with Harry: 有大量的同义替换词（动词、形容词、副词等）、动词短语、俗语等诸如此类的，并且内 容庞杂，可以选择性看看  
 - English with Lucy: 学习英语用，各种方面的都有，不是备考雅思的，学习英语用，主要是英国美女，别的没  
