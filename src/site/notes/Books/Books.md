@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Books"],"permalink":"/Books/Books/","dgPassFrontmatter":true,"created":"2023-04-27T21:29:21.736+08:00","updated":"2023-04-27T21:32:24.553+08:00"}
+{"dg-publish":true,"tags":["Books"],"permalink":"/Books/Books/","dgPassFrontmatter":true,"created":"2023-04-27T21:29:21.736+08:00","updated":"2023-05-17T23:34:26.459+08:00"}
 ---
 
 
@@ -7,6 +7,35 @@
 [Open Syllabus](https://opensyllabus.org/) - The Open Syllabus Project，通过其网站可以查看美国、英国、加拿大、澳大利亚、新西兰知名大学要求或推荐本校学生阅读的书目。
 
 
+# Why should you read xxx?
+- [Why You Should Read Books](https://www.youtube.com/watch?v=A-jzAyOO6d4)
+- [Why should you read Tolstoy's "War and Peace"? - Brendan Pelsue](https://www.youtube.com/watch?v=4dn7TEjnbPY)
+- [Why should you read “Fahrenheit 451”? - Iseult Gillespie](https://www.youtube.com/watch?v=YMZcp0EQO2s)
+- [Why should you read “Crime and Punishment”? - Alex Gendler](https://www.youtube.com/watch?v=Vtkv3-endYc)
+- [Why should you read "One Hundred Years of Solitude"? - Francisco Díez-Buzo](https://www.youtube.com/watch?v=B2zhLYz4pYo)
+- [Why should you read "Don Quixote"? - Ilan Stavans](https://www.youtube.com/watch?v=dDUPu6tMWHY)
+- [Why should you read "Macbeth"? - Brendan Pelsue](https://www.youtube.com/watch?v=rD5goS69LT4)
+- [Why should you read Dante’s “Divine Comedy”? - Sheila Marie Orfano](https://www.youtube.com/watch?v=YbCEWSip9pQ)
+- [Why should you read James Joyce's "Ulysses"? - Sam Slote](https://www.youtube.com/watch?v=X7FobPxu27M)
+- [Why should you read “Dune” by Frank Herbert? - Dan Kwartler](https://www.youtube.com/watch?v=yhYU4ZbLmmk)
+- [Why should you read Virginia Woolf? - Iseult Gillespie ](https://www.youtube.com/watch?v=DcMLkce_BLg)
+- [Why should you read Sylvia Plath? - Iseult Gillespie ](https://www.youtube.com/watch?v=wCWl8ZIgCHk)
+- [Why should you read Edgar Allan Poe? - Scott Peeples](https://www.youtube.com/watch?v=8lgg-pVjOok)
+- [Why should you read "Hamlet"? - Iseult Gillespie](https://www.youtube.com/watch?v=QTu39aMg_mU)
+- [Why should you read Charles Dickens? - Iseult Gillespie ](https://www.youtube.com/watch?v=5czA_L_eOp4)
+- [Why should you read Shakespeare’s “The Tempest”? - Iseult Gillespie](https://www.youtube.com/watch?v=UvznOeSyESU)
+- [Why should you read “Lord of the Flies” by William Golding? - Jill Dash](https://www.youtube.com/watch?v=NnnZ6y1HPqI)
+- [Why should you read "The Handmaid's Tale"? - Naomi R. Mercer](https://www.youtube.com/watch?v=7v-mfJMyBO0)
+- [Why should you read Kurt Vonnegut? - Mia Nacamulli](https://www.youtube.com/watch?v=cwwK7NmfF9w)
+- [Why should you read “Kafka on the Shore”? - Iseult Gillespie](https://www.youtube.com/watch?v=mB4FO1itCi0)
+- [Why should you read "Waiting For Godot"? - Iseult Gillespie](https://www.youtube.com/watch?v=Cz5ey3RqDBI)
+- [Why should you read “Midnight’s Children”? - Iseult Gillespie](https://www.youtube.com/watch?v=x5pPo5KehCk)
+- [Why should you read Toni Morrison’s “Beloved”? - Yen Pham](https://www.youtube.com/watch?v=Xu2euaQGzDQ)
+- [Why should you read "A Midsummer Night's Dream"? - Iseult Gillespie](https://www.youtube.com/watch?v=xCI6o-kbqrs)
+- [Why should you read “The Master and Margarita”? - Alex Gendler](https://www.youtube.com/watch?v=miNBicrLiXo)
+- [Why should you read “Moby Dick”? - Sascha Morrell](https://www.youtube.com/watch?v=mmoFxVqZ9z4&t=2s)
+- [Why should you read Edgar Allan Poe? - Scott Peeples](https://www.youtube.com/watch?v=8lgg-pVjOok)
+- [More book recommendations from TED-Ed](https://www.youtube.com/playlist?list=PLJicmE8fK0EiUroVhuEyeOYkAGAAB58Xx)
 
 
 
