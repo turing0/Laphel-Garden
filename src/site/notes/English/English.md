@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["English"],"permalink":"/English/English/","dgPassFrontmatter":true,"created":"2023-04-26T20:08:21.643+08:00","updated":"2023-05-14T20:56:25.460+08:00"}
+{"dg-publish":true,"tags":["English"],"permalink":"/English/English/","dgPassFrontmatter":true,"created":"2023-04-26T20:08:21.643+08:00","updated":"2023-05-18T20:13:04.461+08:00"}
 ---
 
 
@@ -50,7 +50,12 @@ _这套资源，风靡全球，是每一位鸡妈妈必选的资源！包含了�
 - [IELTS Simon](https://www.ielts-simon.com/): 推荐学习写作方面，也是网上热门推荐之一了
 - [Prepare For Your IELTS Exam With IELTS Podcast](https://www.ieltspodcast.com/): 雅思全包
 - [IELTSbuddy](https://www.ieltsbuddy.com/)
-- 
 
 
 雅思托福专项：[[master-application/IELTS\|IELTS]] [[master-application/TOEFL\|TOEFL]] 
+
+
+
+# REF
+- [英语学习](https://eureka.mba/posts/3f43dc72.html)
+
