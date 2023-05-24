@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/master-application/Master Application/","dgPassFrontmatter":true,"created":"2023-04-25T20:40:34.304+08:00","updated":"2023-05-03T14:10:43.410+08:00"}
+{"dg-publish":true,"permalink":"/master-application/Master Application/","dgPassFrontmatter":true,"created":"2023-04-25T20:40:34.304+08:00","updated":"2023-05-24T19:11:28.817+08:00"}
 ---
 
 
@@ -20,3 +20,15 @@
 
 
 [加拿大移民留学干货铺](https://www.douban.com/note/785400951/)
+
+
+# 机票
+
+- [Google Flight](https://www.google.com/travel/flights)
+- [Skyscanner](https://www.skyscanner.com/)
+
+
+
+[怎样买到最便宜的国际机票？机票全攻略](https://youyoutrips.com/experience/flight/%E6%80%8E%E6%A0%B7%E4%B9%B0%E5%88%B0%E6%9C%80%E4%BE%BF%E5%AE%9C%E7%9A%84%E5%9B%BD%E9%99%85%E6%9C%BA%E7%A5%A8%EF%BC%9F%E5%9B%9E%E5%9B%BD%E6%9C%BA%E7%A5%A8%E5%85%A8%E6%94%BB%E7%95%A5/)
+
+https://zhuanlan.zhihu.com/p/29205819
