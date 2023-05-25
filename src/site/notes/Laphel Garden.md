@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-05-25T11:04:48.677+08:00"}
+{"dg-home":true,"dg-publish":true,"permalink":"/Laphel Garden/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-04-22T11:14:19.123+08:00","updated":"2023-05-25T11:25:30.657+08:00"}
 ---
 
 
@@ -34,6 +34,7 @@ This site is still a work in progress, so excuse the mess. 👷‍♂️
 # [[English/English\|English]]
 
 - [[English/二语习得\|二语习得]]
+- [[English/印欧语音变规律\|印欧语音变规律]]
 - [[English/可理解输入\|可理解输入]]
 - [[English/美剧学英语\|美剧学英语]]
 
