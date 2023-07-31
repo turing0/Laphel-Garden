@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["English"],"permalink":"/English/English/","dgPassFrontmatter":true,"created":"2023-04-26T20:08:21.643+08:00","updated":"2023-05-18T20:13:04.461+08:00"}
+{"dg-publish":true,"tags":["English"],"permalink":"/English/English/","dgPassFrontmatter":true,"created":"2023-04-26T20:08:21.643+08:00","updated":"2023-06-03T14:04:56.786+08:00"}
 ---
 
 
@@ -54,6 +54,11 @@ _这套资源，风靡全球，是每一位鸡妈妈必选的资源！包含了�
 
 雅思托福专项：[[master-application/IELTS\|IELTS]] [[master-application/TOEFL\|TOEFL]] 
 
+
+
+《英文世界名著1000部》  
+百度云: https://pan.baidu.com/s/1Eq4VN6vLXCqTKiWM7QIXWA?pwd=xy4i  
+提取码: xy4i
 
 
 # REF
